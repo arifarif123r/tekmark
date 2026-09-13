@@ -1,0 +1,2 @@
+2026-09-13T05:46:01+00:00 WARNING Email "admin_payment_gateway_enabled" failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"admin_payment_gateway_enabled","status":"failed","recipient":"sahabuddin123","bKash\\PGW\\PaymentGatewaybKash":null}
+2026-09-13T05:48:56+00:00 WARNING Email "admin_payment_gateway_enabled" failed to send: Could not instantiate mail function. CONTEXT: {"email_type":"admin_payment_gateway_enabled","status":"failed","recipient":"sahabuddin123","WC_Gateway_COD":null}
